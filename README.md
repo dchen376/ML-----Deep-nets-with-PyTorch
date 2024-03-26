@@ -4,9 +4,13 @@
 Week 1 - Tensor and Datasets
 
 1.1 - Tensors 1D
+
 1.2 - Two-Dimensional Tensors
+
 1.3 - Derivatives in PyTorch
+
 1.4 - Simple Dataset
+
 1.5 - Dataset
 
 Week 2 - Linear Regression, Linear Regression PyTorch Way
