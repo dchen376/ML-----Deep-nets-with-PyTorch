@@ -99,3 +99,4 @@ Week 6 - Convolutional Neural Network
 
 
 Week 7 - Peer Review 
+- Fashion MNIST Classification Assignment
